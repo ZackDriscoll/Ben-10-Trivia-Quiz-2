@@ -1,0 +1,5 @@
+Installation and running directions:
+
+1.) Open the "setup" application and install the "Ben10TriviaQuiz2Setup" application.
+2.) In the search bar, type in "Trivia Quiz" to run the application.
+3.) Enjoy!
